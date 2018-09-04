@@ -16,7 +16,7 @@ Press the tab-key, or simply click on the suggestion to automatically fill in th
 
 You can also use the right arrow key.
 
-See a live demo [here](http://10w042.github.io/email-autocomplete/demo/).
+See a live demo [here](https://jab2870.github.io/email-autocomplete/demo/).
 
 ## Installation
 
